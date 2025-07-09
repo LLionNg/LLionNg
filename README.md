@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm **Suphakit Ng**, a passionate Machine Learning Engineer and Software Developer with expertise in AI applications and cutting-edge technology solutions. I specialize in transforming complex problems into innovative software solutions through machine learning and modern development practices.
+Hello! I'm **Suphakit Ng**, a passionate Machine Learning Engineer and Software Developer with expertise in AI applications and new technology solutions. I specialize in transforming complex problems into innovative software solutions through machine learning and modern development practices.
 
 **🎯 Focus Areas:** Machine Learning, AI Development, Software Engineering, Open Source Contribution
 
