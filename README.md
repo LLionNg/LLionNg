@@ -1,4 +1,4 @@
-# 🤖 Suphakit Ng - Machine Learning Engineer & Software Developer
+# 🤖 Suphakit Ng - AI Engineer & Software Developer
 
 [![Email](https://img.shields.io/badge/Email-lionng@devlionng.com-red)](mailto:lionng@devlionng.com)
 [![GitHub](https://img.shields.io/badge/GitHub-LLionNg-blue)](https://github.com/LLionNg)
