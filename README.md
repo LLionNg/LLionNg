@@ -24,10 +24,20 @@ Hello! I'm **Suphakit Ng**, a passionate Machine Learning Engineer and Software 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
+<table>
+<tr>
+<td width="50%">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LLionNg&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
+</td>
+<td width="50%">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LLionNg&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</td>
+</tr>
+</table>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LLionNg&theme=radical&hide_border=true)
 
