@@ -9,7 +9,6 @@
 
 Hello! I'm **Suphakit Ng**, a passionate AI Engineer and Software Developer with expertise in AI applications and new technology solutions.
 
-**🎯 Focus Areas:** Machine Learning, Deep Learning, AI Development, Software Engineering
 
 ## 🛠️ Technical Arsenal
 
