@@ -3,13 +3,13 @@
 [![Email](https://img.shields.io/badge/Email-lionng@devlionng.com-red)](mailto:lionng@devlionng.com)
 [![GitHub](https://img.shields.io/badge/GitHub-LLionNg-blue)](https://github.com/LLionNg)
 
-> *"Advancing AI innovation through machine learning and software development expertise"*
+> *"Advancing AI innovation through Artificial Intelligence and software development expertise"*
 
 ## 🚀 About Me
 
-Hello! I'm **Suphakit Ng**, a passionate Machine Learning Engineer and Software Developer with expertise in AI applications and new technology solutions. I specialize in transforming complex problems into innovative software solutions through machine learning and modern development practices.
+Hello! I'm **Suphakit Ng**, a passionate AI Engineer and Software Developer with expertise in AI applications and new technology solutions. I specialize in transforming complex problems into innovative software solutions through machine learning and modern development practices.
 
-**🎯 Focus Areas:** Machine Learning, AI Development, Software Engineering, Open Source Contribution
+**🎯 Focus Areas:** Machine Learning, Deep Learning, AI Development, Software Engineering
 
 ## 🛠️ Technical Arsenal
 
@@ -52,12 +52,11 @@ Hello! I'm **Suphakit Ng**, a passionate Machine Learning Engineer and Software 
 ## 🔥 Activity Overview
 
 ```text
-💻 Primary Languages    Python, Go, C++, JavaScript
-🎯 Focus Areas          Machine Learning, AI Development, Software Engineering
-🌟 Specialties          LLM Fine-tuning, Voice AI, Computer Vision
-🛠️ Tools & Frameworks   PyTorch, Hugging Face, Docker, React, AWS
-🎓 Knowledge Sharing    Teaching Assistant, Workshop Participant
-🌍 Community            Open Source Contributor, AI Researcher
+💻 Primary Languages    Python, Go, C++, Java, JavaScript, Rust
+🎯 Focus Areas          Machine Learning, Deep Learning, AI Development, Software Engineering
+🌟 Specialties          LLM, Voice AI, Computer Vision, RVC, HPC
+🛠️ Tools & Frameworks   PyTorch, Hugging Face, Docker, AWS, Kubernetes, Google Cloud, Jenkins, ELK Stack, Next.js, Tree.js, Grafana
+🌍 Community            AI Researcher, Open Source Contributor, Teaching Assistant
 ```
 
 ## 🌐 Technical Interests
