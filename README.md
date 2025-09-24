@@ -36,7 +36,7 @@ Hello! I'm **Suphakit Ng**, a passionate AI Engineer and Software Developer with
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="2" align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LLionNg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&langs_count=8)
 
