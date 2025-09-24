@@ -22,12 +22,27 @@ Hello! I'm **Suphakit Ng**, a passionate AI Engineer and Software Developer with
 
 ## 📊 GitHub Analytics
 <div align="center">
+<table>
+<tr>
+<td width="50%">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LLionNg&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff)
 
+</td>
+<td width="50%">
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LLionNg&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=58a6ff&sideNums=58a6ff)
 
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LLionNg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&langs_count=8)
+
+</td>
+</tr>
+</table>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LLionNg&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)
 
