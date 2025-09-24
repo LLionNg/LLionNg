@@ -57,9 +57,6 @@ Hello! I'm **Suphakit Ng**, a passionate AI Engineer and Software Developer with
 ## 🔥 Activity Overview
 
 ```text
-💻 Primary Languages    Python, Go, C++, Java, JavaScript, Rust
-🎯 Focus Areas          Machine Learning, Deep Learning, AI Development, Software Engineering
-🌟 Specialties          LLM, Voice AI, Computer Vision, RVC, HPC
 🛠️ Tools & Frameworks   PyTorch, Hugging Face, Docker, AWS, Kubernetes, Google Cloud, Jenkins, ELK Stack, Next.js, Tree.js, Grafana
 🌍 Community            AI Researcher, Open Source Contributor, Teaching Assistant
 ```
@@ -71,14 +68,6 @@ Hello! I'm **Suphakit Ng**, a passionate AI Engineer and Software Developer with
 - **🌱 Continuous Learning:** Actively participating in workshops, conferences, and technical communities
 - **💡 Innovation:** Building practical AI solutions that solve real-world problems
 
-## 📫 Connect & Collaborate
-
-I'm passionate about AI innovation, open source contribution, and knowledge sharing. Let's connect to discuss:
-
-- 🤖 **AI/ML Projects** - Collaborative research and development
-- 💻 **Software Development** - Open source contributions and technical discussions
-- 🎓 **Knowledge Exchange** - Learning opportunities and technical mentorship
-- 🚀 **Innovation** - Cutting-edge technology applications and solutions
 
 **📧 Email:** [lionng@devlionng.com](mailto:lionng@devlionng.com)  
 **💼 GitHub:** [@LLionNg](https://github.com/LLionNg)
