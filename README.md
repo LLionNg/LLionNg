@@ -57,7 +57,7 @@ Hello! I'm **Suphakit Ng**, a passionate AI Engineer and Software Developer with
 ## 🔥 Activity Overview
 
 ```text
-🛠️ Tools & Frameworks   PyTorch, Hugging Face, Docker, AWS, Kubernetes, Google Cloud, Jenkins, ELK Stack, Next.js, Tree.js, Grafana
+🛠️ Tools & Frameworks   PyTorch, TensorFlow, TensorRT, verl, Hugging Face, Docker, Git, Flask, Jenkins, AWS, Google Cloud Platform, Elk stack, Grafana, HPC/VPS, PostgreSQL, MongoDB, Bash, Next.js, Three.js, React, Gin, GoFiber, Heroku, Gradle, Maven, Unity
 🌍 Community            AI Researcher, Open Source Contributor, Teaching Assistant
 ```
 
