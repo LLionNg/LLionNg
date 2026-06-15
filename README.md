@@ -61,8 +61,6 @@ Hello, I'm Suphakit Ng, currently working as an AI Engineer with experience in A
 
 **Community:** AI Researcher, Open Source Contributor, Teaching Assistant
 
-**Community:** AI Researcher, Open Source Contributor, Teaching Assistant
-
 ## GitHub Stats
 
 <div align="center">
