@@ -14,25 +14,30 @@
 
 ***
 
-## About Me
+## <img src="https://api.iconify.design/octicon/person-16.svg?color=%2358a6ff" height="22" /> About Me
 
 Hello, I'm Suphakit Ng, currently working as an AI Engineer with experience in AI applications and Fullstack software development.
 
-## Experience Highlights
+## <img src="https://api.iconify.design/octicon/briefcase-16.svg?color=%2358a6ff" height="22" /> Experience Highlights
 
 ### AI Engineer - DeepCapital
-· Built & deployed multi-domain RAG systems (legal · e-commerce · agricultural) · Optimized inference with TensorRT for 4–5× speedup via FP16 quantization, operator fusion & dynamic batching
+· Built & deployed multi-domain RAG systems (legal · e-commerce · agricultural) 
+· Optimized inference with TensorRT for 4–5× speedup via FP16 quantization, operator fusion & dynamic batching
 
 ### Super AI Engineer S4 - Silver Medal
-· HybridRAG + HyDE legal document system · Thai vision-language captioning (mPLUG) · Liver cancer detection pipeline (YOLOv10)
+· HybridRAG + HyDE legal document system 
+· Thai vision-language captioning (mPLUG) 
+· Liver cancer detection pipeline (YOLOv10)
 
 ### 1st Place - Llama 3 Hackathon
 · AI flashcard generation from PDFs using Llama 3 + RAG with interactive progress tracking
 
 ### Freelance Full-Stack & AI Engineer
-· Delivered diverse web apps from full-stack platforms (Next.js · PostgreSQL · NextAuth) to interactive 3D experiences (Three.js) · Voice-activated assistant with LLM APIs · BERT-based question-answering system
+· Delivered diverse web apps from full-stack platforms (Next.js · PostgreSQL · NextAuth) to interactive 3D experiences (Three.js) 
+· Voice-activated assistant with LLM APIs 
+· BERT-based question-answering system
 
-## Technical Skills
+## <img src="https://api.iconify.design/octicon/tools-16.svg?color=%2358a6ff" height="22" /> Technical Skills
 
 **Languages**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
@@ -85,7 +90,7 @@ Hello, I'm Suphakit Ng, currently working as an AI Engineer with experience in A
 **Community:**<br>
 AI Researcher · Open Source Contributor · Teaching Assistant
 
-## GitHub Stats
+## <img src="https://api.iconify.design/octicon/graph-16.svg?color=%2358a6ff" height="22" /> GitHub Stats
 
 <div align="center">
 
@@ -94,11 +99,11 @@ AI Researcher · Open Source Contributor · Teaching Assistant
 
 </div>
 
-## Interests
+## <img src="https://api.iconify.design/octicon/light-bulb-16.svg?color=%2358a6ff" height="22" /> Interests
 
 `LLMs` · `Multimodal AI` · `Reinforcement Learning` · `Fine-tuning` · `Efficient Training` · `NLP` · `Computer Vision` · `OCR` · `ASR` · `Agentic Document Extraction` · `Time Series` · `Research Paper Implementation` · `Real-World AI Solutions` · `AI implementation in Game Dev` · `Open Source`
 
-## Contact
+## <img src="https://api.iconify.design/octicon/mail-16.svg?color=%2358a6ff" height="22" /> Contact
 
 <div align="center">
 
