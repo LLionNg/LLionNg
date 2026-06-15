@@ -84,9 +84,14 @@ Hello, I'm Suphakit Ng, currently working as an AI Engineer with experience in A
 
 ## Interests
 
-LLMs · Multimodal AI · Reinforcement Learning · Fine-tuning · Efficient Training · NLP · Computer Vision · OCR · ASR · Agentic Document Extraction · Time Series · Research Paper Implementation · Real-World AI Solutions · AI implementation in Game Dev · Open Source
+`LLMs` · `Multimodal AI` · `Reinforcement Learning` · `Fine-tuning` · `Efficient Training` · `NLP` · `Computer Vision` · `OCR` · `ASR` · `Agentic Document Extraction` · `Time Series` · `Research Paper Implementation` · `Real-World AI Solutions` · `AI implementation in Game Dev` · `Open Source`
 
 ## Contact
 
-- Email: [lionng@devlionng.com](mailto:lionng@devlionng.com)
-- GitHub: [@LLionNg](https://github.com/LLionNg)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-lionng@devlionng.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lionng@devlionng.com)
+[![GitHub](https://img.shields.io/badge/GitHub-LLionNg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LLionNg)
+[![Website](https://img.shields.io/badge/Website-devlionng.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devlionng.com)
+
+</div>
