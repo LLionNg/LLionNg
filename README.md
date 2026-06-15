@@ -4,7 +4,7 @@
 
 <h1>👋 Hi, I'm Suphakit Ng</h1>
 
-<b>ML Engineer · AI Engineer · Software Engineer</b><br>
+<b>ML Engineer · AI Engineer · Software Engineer</b><br><br>
 [![Email](https://img.shields.io/badge/Email-lionng@devlionng.com-red)](mailto:lionng@devlionng.com)
 [![GitHub](https://img.shields.io/badge/GitHub-LLionNg-blue)](https://github.com/LLionNg)
 [![GitHub followers](https://img.shields.io/github/followers/LLionNg?label=Followers\&style=flat-square\&color=blue)](https://github.com/LLionNg)
