@@ -4,6 +4,8 @@
 
 [![Email](https://img.shields.io/badge/Email-lionng@devlionng.com-red)](mailto:lionng@devlionng.com)
 [![GitHub](https://img.shields.io/badge/GitHub-LLionNg-blue)](https://github.com/LLionNg)
+[![GitHub followers](https://img.shields.io/github/followers/LLionNg?label=Followers&style=flat-square&color=blue)](https://github.com/LLionNg)
+[![GitHub stars](https://img.shields.io/github/stars/LLionNg?label=Total%20Stars&style=flat-square&color=yellow)](https://github.com/LLionNg)
 
 ---
 
@@ -73,16 +75,18 @@ Hello, I'm Suphakit Ng, currently working as an AI Engineer with experience in A
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LLionNg&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LLionNg&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=LLionNg&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=58a6ff&sideNums=58a6ff" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LLionNg&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=58a6ff&sideNums=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LLionNg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&langs_count=8)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LLionNg&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)
 
 </div>
-
-[![GitHub followers](https://img.shields.io/github/followers/LLionNg?label=Followers&style=flat-square&color=blue)](https://github.com/LLionNg)
-[![GitHub stars](https://img.shields.io/github/stars/LLionNg?label=Total%20Stars&style=flat-square&color=yellow)](https://github.com/LLionNg)
 
 ## Interests
 
