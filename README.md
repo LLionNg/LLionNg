@@ -44,7 +44,7 @@ Hello, I'm Suphakit Ng, currently working as an AI Engineer with experience in A
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square\&logo=postgresql\&logoColor=white)
 
-**AI / Machine Learning**<br>
+**AI / Machine Learning / Data**<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
@@ -52,8 +52,6 @@ Hello, I'm Suphakit Ng, currently working as an AI Engineer with experience in A
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square\&logo=nvidia\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
 ![verl](https://img.shields.io/badge/verl-412991?style=flat-square\&logo=openai\&logoColor=white)
-
-**Data / Scientific Computing**<br>
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square\&logo=scipy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
