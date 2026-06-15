@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LLionNg/LLionNg/main/main.jpg" width="200" />
+<img src="https://raw.githubusercontent.com/LLionNg/LLionNg/main/main.jpg?v=2" width="200" />
 
 <h1>👋 Hi, I'm Suphakit Ng</h1>
 
