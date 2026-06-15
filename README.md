@@ -1,8 +1,10 @@
 <div align="center">
 
-<h1>Suphakit Ng</h1>
+<img src="https://raw.githubusercontent.com/LLionNg/LLionNg/main/main.jpg" width="180" />
 
-<b>ML Engineer, AI Engineer, Software Engineer</b><br>
+<h1>👋 Hi, I'm Suphakit Ng</h1>
+
+<b>ML Engineer · AI Engineer · Software Engineer</b><br>
 [![Email](https://img.shields.io/badge/Email-lionng@devlionng.com-red)](mailto:lionng@devlionng.com)
 [![GitHub](https://img.shields.io/badge/GitHub-LLionNg-blue)](https://github.com/LLionNg)
 [![GitHub followers](https://img.shields.io/github/followers/LLionNg?label=Followers&style=flat-square&color=blue)](https://github.com/LLionNg)
@@ -69,7 +71,7 @@ Hello, I'm Suphakit Ng, currently working as an AI Engineer with experience in A
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 **Community:**<br>
-AI Researcher, Open Source Contributor, Teaching Assistant
+AI Researcher · Open Source Contributor · Teaching Assistant
 
 ## GitHub Stats
 
