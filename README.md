@@ -25,9 +25,9 @@ Hello, I'm Suphakit Ng, currently working as an AI Engineer with experience in A
 · Optimized inference with TensorRT for 4–5× speedup via FP16 quantization, operator fusion & dynamic batching
 
 ### Super AI Engineer S4 - Silver Medal
-· HybridRAG + HyDE legal document system<br>
-· Thai vision-language captioning (mPLUG)<br> 
-· Liver cancer detection pipeline (YOLOv10)
+· HybridRAG + HyDE legal document system combining dense and keyword retrieval with hypothetical document embeddings for accurate clause-level legal Q&A<br>
+· Thai vision-language captioning by adapting the mPLUG model with a custom BertTokenizer and BertDecoder for native Thai image description<br>
+· End-to-end liver cancer detection pipeline using YOLOv10 for tumor localization and classification on ultrasound scans
 
 ### 1st Place - Llama 3 Hackathon
 · AI flashcard generation from PDFs using Llama 3 + RAG with interactive progress tracking
@@ -35,7 +35,7 @@ Hello, I'm Suphakit Ng, currently working as an AI Engineer with experience in A
 ### Freelance Full-Stack & AI Engineer
 · Delivered diverse web apps from full-stack platforms (Next.js · PostgreSQL · NextAuth) to interactive 3D experiences (Three.js)<br> 
 · Voice-activated assistant with LLM APIs<br> 
-· BERT-based question-answering system
+· BERT-based question-answering system fine-tuned for context-span detection, pinpointing exact answer locations within a passage
 
 ## <img src="https://api.iconify.design/octicon/tools-16.svg?color=%2358a6ff" height="22" /> Technical Skills
 
