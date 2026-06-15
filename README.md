@@ -79,8 +79,6 @@ Hello, I'm Suphakit Ng, currently working as an AI Engineer with experience in A
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LLionNg&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=58a6ff&sideNums=58a6ff)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LLionNg&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)
-
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/LLionNg?label=Followers&style=flat-square&color=blue)](https://github.com/LLionNg)
