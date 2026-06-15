@@ -21,20 +21,20 @@ Hello, I'm Suphakit Ng, currently working as an AI Engineer with experience in A
 ## <img src="https://api.iconify.design/octicon/briefcase-16.svg?color=%2358a6ff" height="22" /> Experience Highlights
 
 ### AI Engineer - DeepCapital
-· Built & deployed multi-domain RAG systems (legal · e-commerce · agricultural) 
+· Built & deployed multi-domain RAG systems (legal · e-commerce · agricultural)<br>
 · Optimized inference with TensorRT for 4–5× speedup via FP16 quantization, operator fusion & dynamic batching
 
 ### Super AI Engineer S4 - Silver Medal
-· HybridRAG + HyDE legal document system 
-· Thai vision-language captioning (mPLUG) 
+· HybridRAG + HyDE legal document system<br>
+· Thai vision-language captioning (mPLUG)<br> 
 · Liver cancer detection pipeline (YOLOv10)
 
 ### 1st Place - Llama 3 Hackathon
 · AI flashcard generation from PDFs using Llama 3 + RAG with interactive progress tracking
 
 ### Freelance Full-Stack & AI Engineer
-· Delivered diverse web apps from full-stack platforms (Next.js · PostgreSQL · NextAuth) to interactive 3D experiences (Three.js) 
-· Voice-activated assistant with LLM APIs 
+· Delivered diverse web apps from full-stack platforms (Next.js · PostgreSQL · NextAuth) to interactive 3D experiences (Three.js)<br> 
+· Voice-activated assistant with LLM APIs<br> 
 · BERT-based question-answering system
 
 ## <img src="https://api.iconify.design/octicon/tools-16.svg?color=%2358a6ff" height="22" /> Technical Skills
