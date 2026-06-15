@@ -18,6 +18,16 @@
 
 Hello, I'm Suphakit Ng, currently working as an AI Engineer with experience in AI applications and Fullstack software development.
 
+## Experience Highlights
+
+**AI Engineer - DeepCapital** · Built & deployed multi-domain RAG systems (legal · e-commerce · agricultural) · Optimized inference with TensorRT for 4–5× speedup via FP16 quantization, operator fusion & dynamic batching
+
+**Super AI Engineer S4 - Silver Medal** · HybridRAG + HyDE legal document system · Thai vision-language captioning (mPLUG) · Liver cancer detection pipeline (YOLOv10)
+
+**1st Place - Llama 3 Hackathon** · AI flashcard generation from PDFs using Llama 3 + RAG with interactive progress tracking
+
+**Freelance Full-Stack & AI Engineer** · Delivered diverse web apps from full-stack platforms (Next.js · PostgreSQL · NextAuth) to interactive 3D experiences (Three.js) · Voice-activated assistant with LLM APIs · BERT-based question-answering system
+
 ## Technical Skills
 
 **Languages**<br>
